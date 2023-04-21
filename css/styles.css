@@ -1,0 +1,143 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&family=Playfair+Display&family=Poltawski+Nowy&display=swap');
+
+/*
+font-family: 'Noto Serif', serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Poltawski Nowy', serif;
+*/
+
+* {
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+img {
+	width: 20%;
+	float: left;
+	margin: 1% 2%;
+	border: 2px solid #5e2751;
+}
+
+body {
+	color: #000;
+}
+
+h1 {
+	text-align: center;
+}
+
+header {
+	background-color: #B0FAFF;
+	font-family: 'Noto Serif', serif;
+}
+
+header h2 {
+	text-align: center;
+}
+
+h2 {
+	font-family: 'Poltawski Nowy', serif;
+}
+
+main {
+	min-height: 566px;
+	background-color: #BBD5FC;
+}
+
+main p {
+	padding: 2px 2%;
+	font-family: 'Poltawski Nowy', serif;
+}
+
+h3 {
+	font-family: 'Poltawski Nowy', serif;
+	font-weight: bold;
+}
+
+main h2 {
+	padding: 0 0 0 5%;
+}
+
+#creds {
+	padding: 2% 0 0 2%;
+}
+
+blockquote {
+	font-size: 3em;
+	font-weight: bold;
+	font-family: 'Playfair Display', serif;
+	text-align: center;
+}
+
+table {
+	margin: 0 auto;
+}
+
+form {
+	text-align: center;
+	font-family: 'Poltawski Nowy', serif;
+	font-size: 1.2em;
+}
+
+.btn {
+	width: 80%;
+	font-size: .8em;
+	font-family: 'Poltawski Nowy', serif;
+}
+
+footer {
+	min-height: 140px;
+	text-align: center;
+	background-color: #BAB0FF;
+	font-family: 'Poltawski Nowy', serif;
+}
+
+.top-nav {
+	text-align: center;
+	background-color: #9ECEE6;
+}
+
+.top-nav ul {
+	list-style-type: none;
+}
+
+.top-nav li {
+	display: inline-block;
+}
+
+.top-nav a {
+	text-decoration: none;
+	color: #5e2751;
+	font-size: 1.2em;
+}
+
+.top-nav a:hover {
+	color: #9ECEE6;
+	background-color: #5e2751;
+}
+
+.foot-nav {
+	text-align: center;
+	background-color: #9EA8E6;
+}
+
+.foot-nav ul {
+	list-style-type: none;
+}
+
+.foot-nav li {
+	display: inline-block;
+}
+
+.foot-nav a {
+	text-decoration: none;
+	color: #5e2751;
+	font-size: 1.2em;
+}
+
+.foot-nav a:hover {
+	color: #9EA8E6;
+	background-color: #5e2751;
+}
